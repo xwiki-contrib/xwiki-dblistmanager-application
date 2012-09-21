@@ -1,0 +1,2 @@
+xwiki-dblistmanager-application
+===============================
