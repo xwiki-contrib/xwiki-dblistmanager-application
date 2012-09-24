@@ -31,7 +31,7 @@
   </properties>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>xwiki-dblistmanager-application</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>xar</packaging>
   <name>DBListManager Application</name>
   <description>Helper to manage Database List values (used like a Static list) of a class.</description>
